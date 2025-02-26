@@ -20,6 +20,7 @@
 #define CHOC_XXHASH_HEADER_INCLUDED
 
 #include <cstring>
+#include <string>
 #include <memory>
 
 namespace choc::hash
